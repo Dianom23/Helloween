@@ -10,10 +10,10 @@
 }
 
 html{
-    cursor: url(/img/cursor.png), auto;
+    cursor: url(img/cursor.png), auto;
 }
 body{
-    background-image: url(/img/Halloween-Pumpkin-Pattern.jpg);
+    background-image: url(img/Halloween-Pumpkin-Pattern.jpg);
     padding-top: 50px;
     background-attachment: fixed;
 }
